@@ -1,7 +1,7 @@
 <div>
   <a href="https://github.com/CapitaoFTW"></a>
   <img height="166em" src="https://github-readme-stats.vercel.app/api?username=CapitaoFTW&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"> 
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitaoFTW&layout=compact&langs_count=16&theme=dracula">
+  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitaoFTW&layout=compact&count_private=true&langs_count=16&theme=dracula">
 </div>
   
   ##  
