@@ -1,10 +1,9 @@
 ### 𝙈𝙀𝙆𝙄𝙀𝙇𝘼𝙎 𝙋𝙀𝙎𝙎𝙊𝘼𝙇 𝙏Á 𝙏𝙐𝘿𝙊?
 
 <div>
-  <a href="https://github.com/CapitaoFTW"></a>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api?username=CapitaoFTW&show_icons=true&theme=dracula&include_all_commits-true&count_private=true"> 
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitaoFTW&layout=compact&langs_count=16&theme=dracula">
-</div>
+  <a href="https://github.com/CapitaoFTW">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppedro20&layout=compact&langs_count=6&theme=city_lights"/>
+</div> 
   
 ### 𝙎𝙊𝘾𝙄𝘼𝙇 𝙉𝙀𝙏𝙒𝙊𝙍𝙆𝙎
   
