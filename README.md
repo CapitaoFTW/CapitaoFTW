@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/CapitaoFTW">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitaoFTW&layout=compact&hide=css,html,makefile,htmllangs_count=15&theme=city_lights"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitaoFTW&layout=compact&hide=css,html,makefile,html&langs_count=10&theme=city_lights"/>
 </div> 
   
 ### 𝙎𝙊𝘾𝙄𝘼𝙇 𝙉𝙀𝙏𝙒𝙊𝙍𝙆𝙎
